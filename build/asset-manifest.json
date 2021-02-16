@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a196c621.chunk.css",
+    "main.js": "/static/js/main.a1872c12.chunk.js",
+    "main.js.map": "/static/js/main.a1872c12.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ba431dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ba431dc.js.map",
+    "static/js/2.2950d3ec.chunk.js": "/static/js/2.2950d3ec.chunk.js",
+    "static/js/2.2950d3ec.chunk.js.map": "/static/js/2.2950d3ec.chunk.js.map",
+    "static/js/3.eb02ad7a.chunk.js": "/static/js/3.eb02ad7a.chunk.js",
+    "static/js/3.eb02ad7a.chunk.js.map": "/static/js/3.eb02ad7a.chunk.js.map",
+    "images/b46dd1d374d00dcc54c64fdcdeaca30c-bear.svg": "/images/b46dd1d374d00dcc54c64fdcdeaca30c-bear.svg",
+    "index.html": "/index.html",
+    "static/css/main.a196c621.chunk.css.map": "/static/css/main.a196c621.chunk.css.map",
+    "static/js/2.2950d3ec.chunk.js.LICENSE.txt": "/static/js/2.2950d3ec.chunk.js.LICENSE.txt",
+    "static/media/bear.9a5efe0c.svg": "/static/media/bear.9a5efe0c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba431dc.js",
+    "static/js/2.2950d3ec.chunk.js",
+    "static/css/main.a196c621.chunk.css",
+    "static/js/main.a1872c12.chunk.js"
+  ]
+}
